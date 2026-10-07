@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ctasks\day2\day2\obj\Debug\day2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ctasks\day2\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ctasks\day2\day2\bin\Debug\day2.exe.config
+C:\Users\user\Desktop\ctasks\day2\day2\bin\Debug\day2.exe
+C:\Users\user\Desktop\ctasks\day2\day2\bin\Debug\day2.pdb
+C:\Users\user\Desktop\ctasks\day2\day2\obj\Debug\day2.exe
+C:\Users\user\Desktop\ctasks\day2\day2\obj\Debug\day2.pdb
