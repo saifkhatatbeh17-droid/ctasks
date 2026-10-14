@@ -101,7 +101,7 @@ class Program
         Console.WriteLine();
 
         // Create a Teacher object
-        Teacher teacher1 = new Teacher("Mr. Ali", 35, "Math");
+        Teacher teacher1 = new Teacher("Mr. Saif", 35, "Arabic");
 
         Console.WriteLine("Teacher Information:");
         teacher1.DisplayTeacherInfo();
